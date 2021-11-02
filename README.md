@@ -3,19 +3,10 @@
 _Working on Node.js fluency._
 
 Playing with :
-Express
-Multer
-MongoDb
-Mongoose
-Robo3T
-Validator
-Bcrypt
-JWT
-Postman
-Sharp
-env-cmd
-Jest
-supertest
+1. Express, Multer, Sharp, Postman
+2. MongoDB, Mongo Atlas, Mongoose, Robot3T, Validator
+3. Bcrypt, JWT, env-cmd
+4. Jest, supertest
 
 Deployed with Heroku.
 
